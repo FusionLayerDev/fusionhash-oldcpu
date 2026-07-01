@@ -2,7 +2,7 @@ package fusionhash
 
 // #cgo CFLAGS: -I${SRCDIR}/include_boost_107400
 // #cgo CXXFLAGS: -I${SRCDIR}/include_boost_107400
-// #cgo CXXFLAGS: -std=c++11 -mavx2 -msse2 -maes
+// #cgo CXXFLAGS: -std=c++11 -msse2
 // #cgo !darwin LDFLAGS: -static-libstdc++ -static-libgcc
 // #cgo darwin LDFLAGS: -static-libstdc++
 // #include "fusionhash.hxx"

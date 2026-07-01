@@ -1,3 +1,3 @@
-module github.com/0xFusionLayer/fusionhash-go
+module github.com/FusionLayerDev/fusionhash-oldcpu
 
 go 1.19
